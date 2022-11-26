@@ -1,5 +1,5 @@
 ## Hi, I'm [Dan👋](https://github.com/cristianexer/cristianexer)
-[![Website](https://img.shields.io/badge/Website-cccccc?style=for-the-badge&logo=web&logoColor=white)](https://www.cristianexer.com)
+[![Website](https://img.shields.io/badge/Website-cccccc?style=for-the-badge&logo=web&logoColor=white)](https://cristianexer.notion.site/Agnostic-Panda-55da2ce8d3394304a89ca1e05212e4ef)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianexer/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcristian353@gmail.com)
 
