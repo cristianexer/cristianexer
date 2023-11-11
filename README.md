@@ -22,7 +22,7 @@ Fueled by a deep-seated passion, I delve into the intricacies of NLP, knowledge 
 
 ## **Let's Connect!**
 
-- 🌐 [Check out my personal website](https://cristianexer.notion.site) for more insights.
+- 🌐 [Check out my personal website](https://cristianexer.github.io) for more insights.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/cristianexer/) for professional discussions.
 - 📧 Drop me an email at [daniel.fat@icloud.com](mailto:daniel.fat@icloud.com) if you prefer the classic approach.
 
