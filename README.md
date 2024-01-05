@@ -1,12 +1,16 @@
 # **Dan's GitHub Profile**
 
-Welcome to my GitHub corner! I'm Daniel, a seasoned senior data scientist with a passion for harnessing the power of data, machine learning, and cloud services to create impactful solutions. 🚀
+Welcome to my GitHub corner! I'm Daniel, an AI Archtiect with data science seasoning and a passion for harnessing the power of data, machine learning, and cloud services to create impactful solutions. 🚀
 
 ## **About Me**
 
 I hold an MSc in Computer Science and boast diverse technical skills. My journey has led me through the realms of software development, culminating in my current role where I specialize in MLOps within the insurance sector. Balancing a robust foundation in programming languages, particularly Python, I strive to deliver high-performance data-driven solutions.
 
 ## **Key Focus Areas**
+
+### **AI Solution Design**
+
+Designing high-performance data-driven AI Solutions to drive growth using AI.
 
 ### **Data Science Maven**
 
