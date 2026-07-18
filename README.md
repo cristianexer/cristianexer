@@ -53,7 +53,7 @@
 
 ### 🌍 Connect
 
-[🌐 Personal Site](https://cristianexer.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/cristianexer/) • [✉️ Email](mailto:daniel.fat@icloud.com)
+[💼 LinkedIn](https://www.linkedin.com/in/cristianexer/) 
 
 ---
 
